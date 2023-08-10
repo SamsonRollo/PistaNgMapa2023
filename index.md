@@ -41,11 +41,11 @@ Read the <a href="{{ site.baseurl }}/conference/travel-guidelines">travel guidel
 </section>
  -->
 
-<!-- <section class="py-4 container-fluid" id="univ-partner">
+ <section class="py-4 container-fluid" id="univ-partner">
     {% include home_univ_partner.html %}
 </section>
 
-<section class="py-4 container-fluid" id="sponsors">
+<!--<section class="py-4 container-fluid" id="sponsors">
     {% include home_sponsors.html %}
 </section> -->
 
