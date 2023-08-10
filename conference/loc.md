@@ -7,6 +7,30 @@ description: There would be no Pista without the hardwork and dedication of our 
 
 <h2>Organizers</h2>
 <div class="row mb-4">
+<div><img class="img-fluid post-img mb-2 col-lg-4 col-sm-12 rounded-circle" style="max-width:240px; width:100%" src= "{{site.baseurl}}/assets/img/logos/partners/upt-seal.png" alt="upt"></div>
+<div class="col-lg-8 col-sm-12">
+<h3>University of the Philippines Tacloban</h3>
+<a class="color-primary" alt="Facebook" href="https://www.facebook.com/UPTaclobanOfficial"><i class="fab fa-facebook my-2 ml-1 mr-1"></i></a>
+<a class="no-underline-link color-primary" alt="Twitter" href="https://twitter.com/UP_Tacloban"><i class="fab fa-twitter my-2 ml-2 mr-1"></i></a>
+<a class="no-underline-link color-primary" alt="YouTube" href="https://www.youtube.com/@up_tacloban"><i class="fab fa-youtube my-2 ml-2 mr-1"></i></a>
+<a class="no-underline-link color-primary" alt="Website" href="https://tac.upv.edu.ph/"><i class="fas fa-globe my-2 ml-2 mr-1"></i></a>
+<br>
+<small class="mb-4">
+</small>
+</div>
+</div>
+<div class="row mb-4">
+<div><img class="img-fluid post-img mb-2 col-lg-4 col-sm-12 rounded-circle" style="max-width:240px; width:100%" src= "{{site.baseurl}}/assets/img/logos/partners/uptym-logo.png" alt="upt"></div>
+<div class="col-lg-8 col-sm-12">
+<h3>University of the Philippines Tacloban YouthMappers</h3>
+<a class="color-primary" alt="Facebook" href="https://www.facebook.com/UPTacYM"><i class="fab fa-facebook my-2 ml-1 mr-1"></i></a>
+<a class="no-underline-link color-primary" alt="Instagram" href="https://www.instagram.com/uptacloban_youthmappers"><i class="fab fa-instagram my-2 ml-2 mr-1"></i></a>
+<br>
+<small class="mb-4">
+</small>
+</div>
+</div>
+<div class="row mb-4">
 <div><img class="img-fluid post-img mb-2 col-lg-4 col-sm-12 rounded-circle" style="max-width:240px; width:100%" src="https://raw.githubusercontent.com/benhur07b/stuff/main/img/hs.jpg" alt=""></div>
 <div class="col-lg-8 col-sm-12">
 <h3>Ben Hur</h3>

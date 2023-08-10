@@ -66,6 +66,12 @@
   background: transparent;
 }
 
+.disabled-link {
+    color: #999 !important; /* Change to your preferred disabled link color */
+    pointer-events: none !important;
+    text-decoration: none !important;
+}
+
 #page-top {
     width: 100%;
     background-color: #F8F9F0;
