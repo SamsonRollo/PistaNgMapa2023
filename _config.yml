@@ -1,12 +1,12 @@
 # site settings
-title: Pista ng Mapa 2022
+title: Pista ng Mapa 2023
 description: "a free and open mapping conference in the Philippines"
 email: "pistangmapa@gmail.com"
 baseurl: "/PistaNgMapa2023"
 logo: "/assets/img/logos/pnm-sq.png"
 nav-logo: "/assets/img/logos/pnm-nav-logo.png"
 favicon: favicon.ico
-repo_address: "pistangmapa/2022"
+repo_address: "pistangmapa/2023"
 messenger: ""
 facebook: "PistaNgMapa2020"
 twitter: "pistangmapa"
