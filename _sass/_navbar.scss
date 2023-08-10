@@ -13,6 +13,12 @@
     }
 }
 
+// .navbar {
+//     margin-top: 0 !important;
+//     margin-bottom: 0 !important;
+//     padding: 0 !important;
+// }
+
 .navbar-default {
     border-color: transparent;
     // background-color: white;
@@ -22,6 +28,9 @@
     }
 }
 
+.navbar-nav li {
+    padding: 0 2px 0 2px;
+}
 
 .navbar-nav li a {
     // text-transform: lowercase;
@@ -55,4 +64,9 @@
 
 .navbar-trans {
   background: transparent;
+}
+
+#page-top {
+    width: 100%;
+    background-color: #DEDEDE;
 }
